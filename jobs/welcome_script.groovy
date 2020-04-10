@@ -1,4 +1,4 @@
-job('welcome-script') {
+job('welcome_script') {
     steps {
         shell('echo Welcome to groovy scripting!!!')
     }
